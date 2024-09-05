@@ -36,6 +36,7 @@ coding!
 
 - Teammate name Ivan Rebolledo: [GitHub]( https://github.com/ivannissimrch) / [LinkedIn]( https://www.linkedin.com/in/ivan-rebolledo-012b17244/)
 - Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Teammate name Leonardo Siqueira: [GitHub](https://github.com/Leonardostdesign) / [LinkedIn](https://www.linkedin.com/in/leonardostdesign/)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
